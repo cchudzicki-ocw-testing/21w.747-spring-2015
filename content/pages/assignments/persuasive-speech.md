@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the persuasive speech oral and written assignment
+  for this course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

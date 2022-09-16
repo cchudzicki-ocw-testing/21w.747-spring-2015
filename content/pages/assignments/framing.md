@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the framing assignment, an outline to complete,
+  and an example framing assignment from this course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -44,7 +46,7 @@ ARTIFACTS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Roberts–Miller, Trish. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Understanding Misunderstandings: How to do a Rhetorical Analysis." (PDF)](http://www.drw.utexas.edu/roberts-miller/sites/www.drw.utexas.edu.roberts-miller/files/understanding.pdf) 2008.
+Roberts–Miller, Trish. ["Understanding Misunderstandings: How to do a Rhetorical Analysis." (PDF)](http://www.drw.utexas.edu/roberts-miller/sites/www.drw.utexas.edu.roberts-miller/files/understanding.pdf) 2008.
 {{< tdclose >}}
 
 {{< trclose >}}

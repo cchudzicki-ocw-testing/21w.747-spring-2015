@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section lists the course meeting times, a description of the course,
+  the objectives for the course, motivation for the course, the texts used in the
+  course, and the grading scheme for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
